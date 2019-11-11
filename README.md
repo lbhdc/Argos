@@ -9,3 +9,6 @@ This is a series of notebooks and the libraies that are produced from the notebo
 ```
 pip install -r requirements.txt
 ```
+
+## Tweet Data
+The twitter noteboox expect `data.tar.xz` to be unzipped.
